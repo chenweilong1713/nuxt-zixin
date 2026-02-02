@@ -1,4 +1,4 @@
-# CF-Nuxt-Zixin 个人主页
+# Nuxt-Zixin 个人主页
 
 这是一个基于 **Nuxt 4** 开发的现代化个人主页项目，专为部署在 **Cloudflare** 生态系统而设计。它利用 Cloudflare 的边缘计算能力，结合 D1 数据库和 KV 存储，提供高性能、低延迟的访问体验。
 
@@ -8,7 +8,7 @@
 
 ## 演示地址
 
-- **[CF-Nuxt-Zixin 个人主页](https://unuuc.cn)**
+- **[Nuxt-Zixin 个人主页](https://unuuc.cn)**
 
 ## ✨ 特性
 
